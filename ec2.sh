@@ -1,4 +1,6 @@
 #!/bin/bash
+alias c="clear"
+
 sudo passwd ubuntu 
 
 sudo apt update && sudo apt upgrade
