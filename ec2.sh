@@ -28,6 +28,7 @@ echo \"voce escolheu instalar o java\"
 echo \"instalado java\"
 sleep 2
 sudo apt install default-jre
+c
 echo \"sua versão java é:\" & java -version
 fi
 fi
