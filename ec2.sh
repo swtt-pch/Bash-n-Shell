@@ -1,5 +1,4 @@
 #!/bin/bash
-alias c="clear"
 
 sudo passwd ubuntu 
 
@@ -28,7 +27,7 @@ echo \"voce escolheu instalar o java\"
 echo \"instalado java\"
 sleep 2
 sudo apt install default-jre
-c
+clear
 echo \"sua versão java é:\" & java -version
 fi
 fi
